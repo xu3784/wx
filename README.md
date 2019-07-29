@@ -1,14 +1,9 @@
 ## Last Update Note:
 
-### 2019-7-26
-
-### New Featrues:
-
-1. mention[AT] other guy in the char room.
-2. remove other guy in the char room.
+### 2019-7-29
 
 ### Fix Bug:
-1. some users can't compile properly, and the related functions have been stripped.
+1. When in the QR code login panel, the operating system resource overhead is severe, causing the program to crash.
 
 ## Usage Notice:
 
@@ -40,4 +35,4 @@
 
 ### The Source Last Push By:
 
-``Author : Cato [init@nil.run]``
+``Author : Cato [fix@nil.run]``

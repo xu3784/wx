@@ -100,5 +100,6 @@ void CheckIsLogin()
 			SendMessage(hLogin, WM_COPYDATA, (WPARAM)hLogin, (LPARAM)&login_msg);
 			break;
 		}
+		Sleep(100);
 	}
 }
